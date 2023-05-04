@@ -9,8 +9,6 @@ function App() {
   return (
     <>
       <h1>Bangladesh</h1>
-      <h2>Dhaka, Bangladesh</h2>
-      <h3>Zulkar Naeeem Rabby</h3>
     </>
   )
 }
